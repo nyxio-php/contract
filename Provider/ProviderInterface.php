@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Contract\Provider;
+namespace Nyxio\Contract\Provider;
 
 interface ProviderInterface
 {

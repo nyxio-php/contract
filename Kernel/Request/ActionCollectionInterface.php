@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Contract\Kernel\Request;
+namespace Nyxio\Contract\Kernel\Request;
 
-use Nyx\Kernel\Request\ActionCache;
+use Nyxio\Kernel\Request\ActionCache;
 
 interface ActionCollectionInterface
 {

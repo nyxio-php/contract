@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Contract\Container;
+namespace Nyxio\Contract\Container;
 
-use Nyx\Container\Injection;
+use Nyxio\Container\Injection;
 
 interface ContainerInterface
 {

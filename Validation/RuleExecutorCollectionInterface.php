@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Contract\Validation;
+namespace Nyxio\Contract\Validation;
 
-use Nyx\Validation\RuleExecutor;
+use Nyxio\Validation\RuleExecutor;
 
 interface RuleExecutorCollectionInterface
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Contract\Config;
+namespace Nyxio\Contract\Config;
 
 interface ConfigInterface
 {

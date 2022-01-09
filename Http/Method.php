@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Contract\Http;
+namespace Nyxio\Contract\Http;
 
 enum Method: string
 {

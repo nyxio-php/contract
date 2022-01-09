@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Contract\Event;
+namespace Nyxio\Contract\Event;
 
-use Nyx\Event\Event;
+use Nyxio\Event\Event;
 
 interface EventDispatcherInterface
 {

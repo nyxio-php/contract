@@ -1,8 +1,8 @@
 <?php
 
-namespace Nyx\Contract\Server;
+namespace Nyxio\Contract\Server;
 
-use Nyx\Contract\Kernel\Request\RequestHandlerInterface;
+use Nyxio\Contract\Kernel\Request\RequestHandlerInterface;
 
 interface HandlerInterface
 {

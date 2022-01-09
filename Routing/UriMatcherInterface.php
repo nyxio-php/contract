@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Contract\Routing;
+namespace Nyxio\Contract\Routing;
 
-use Nyx\Routing\Attribute\Route;
+use Nyxio\Routing\Attribute\Route;
 use Psr\Http\Message\ServerRequestInterface;
 
 interface UriMatcherInterface

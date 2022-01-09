@@ -1,11 +1,11 @@
 {
-    "name": "nyx/contract",
-    "description": "NYX Contracts",
+    "name": "nyxio/contract",
+    "description": "nyxio contracts",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nyx\\Contract\\": ""
+            "Nyxio\\Contract\\": ""
         }
     },
     "authors": [

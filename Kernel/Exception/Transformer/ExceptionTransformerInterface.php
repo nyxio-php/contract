@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Contract\Kernel\Exception\Transformer;
+namespace Nyxio\Contract\Kernel\Exception\Transformer;
 
 interface ExceptionTransformerInterface
 {
