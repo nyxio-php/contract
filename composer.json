@@ -1,0 +1,23 @@
+{
+    "name": "nyx/contract",
+    "description": "NYX Contracts",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nyx\\Contract\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksey Ishutin",
+            "email": "ishutin.alexey@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "psr/http-message": "^1.0",
+        "php-http/message-factory": "^1.0",
+        "psr/http-factory": "^1.0"
+    }
+}
