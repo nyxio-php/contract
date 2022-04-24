@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyxio\Contract\Kernel\Server\Job;
+namespace Nyxio\Contract\Kernel\Server\Job\Async;
 
 interface OptionsInterface
 {
@@ -15,4 +15,6 @@ interface OptionsInterface
     public function getRetryDelay(): ?int;
 
     public function getFinishCallback(): ?\Closure;
+
+    public function resetFinishCallback(): static;
 }
